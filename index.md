@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
-<IMG src="galaxycentury.github.io/47BEEF4B-5DEE-4602-A6C2-315E15B365A2.jpeg" height=384 width=288> <IMG src="galaxycentury.github.io/47BEEF4B-5DEE-4602-A6C2-315E15B365A2.jpeg" height=384 width=288>
+<IMG src="galaxycentury.github.io/47BEEF4B-5DEE-4602-A6C2-315E15B365A2.jpeg" height=480 width=320> <IMG src="galaxycentury.github.io/47BEEF4B-5DEE-4602-A6C2-315E15B365A2.jpeg" height=480 width=320>
 
 ### Markdown
 
@@ -18,7 +18,7 @@ Syntax highlighted code block
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
  
 
-<A href="要链接的网址"><IMG src="图片地址" height=280 width=210></A>
+<A href="要链接的网址"><IMG src="图片地址" height=480 width=320></A>
 <BODY BACKGROUND="背景图片Url地址"> 
 
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
