@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
  
- 
+ [捐助账户](src="galaxycentury.github.io/E709F37A-6896-4535-9756-45C5F58767C3.jpeg" height=62 width=41><IMG)
  
  
  
