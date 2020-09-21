@@ -23,10 +23,23 @@ Syntax highlighted code block
 
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
  
-
-<A href="要链接的网址"><IMG src="图片地址" height=480 width=320></A>
-<BODY BACKGROUND="背景图片Url地址"> 
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
 # Header 1
