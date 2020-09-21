@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<IMG src="http://img.ewebweb.com/uploads/20190403/15/1554276534-PnACzGogaN.jpg" height=280 width=210> 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -14,7 +16,6 @@ Syntax highlighted code block
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
  
 
-<IMG src="http://img.ewebweb.com/uploads/20190403/15/1554276534-PnACzGogaN.jpg" height=280 width=210> 
 <A href="要链接的网址"><IMG src="图片地址" height=280 width=210></A>
 <BODY BACKGROUND="背景图片Url地址"> 
 
