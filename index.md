@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
-<IMG src="http://img.ewebweb.com/uploads/20190403/15/1554276534-PnACzGogaN.jpg" height=640 width=480> 
+<IMG src="https://www.skypixel.com/pilot/photos/share/e1841702-6739-45df-8ba3-2e9dcd3b9130?account=djiuser-s8mki6zwdmjw" height=640 width=480> 
 
 ### Markdown
 
