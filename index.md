@@ -6,13 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ###
 
-<html>  
-<body>  
-<div id="Layer1" style="position:absolute; left:0px; top:0px; width:100%; height:100%">  
-<img src="galaxycentury.github.io/$.png" width="100%" height="100%"/>  
-</div>  
-</body>  
-</html>
 <IMG src="galaxycentury.github.io/$.png" height=320 width=832>
 
 ###
