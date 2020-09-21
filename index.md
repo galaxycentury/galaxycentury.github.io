@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/galaxycentury/galaxycentur
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
 <IMG src="http://img.ewebweb.com/uploads/20190403/15/1554276534-PnACzGogaN.jpg" height=640 width=480> 
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
