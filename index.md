@@ -17,6 +17,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Windows Firefox Browser 火狐浏览器 官方安装包](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe)
 [Windows 360 Browser 12.0.1548.0 360急速浏览器 官方安装包](http://down.360safe.com/cse/360cse_12.0.1548.0.exe)
 
+[Windows 7 64 位版本和 Windows Server 2008 R2 64 位版本 Internet Explorer 11](https://download.microsoft.com/download/5/6/F/56FD6253-CB53-4E38-94C6-74367DA2AB34/IE11-Windows6.1-x64-zh-cn.exe)
+[Windows 7 32 位版本 Internet Explorer 11](https://download.microsoft.com/download/F/2/8/F2871AC4-E82B-4636-BB37-A5F2B14C8616/IE11-Windows6.1-x86-zh-cn.exe)
+
+
 ### 防病毒软件类
 
 [Windows 火绒安全软件5.0 官方安装包](https://www.huorong.cn/downloadfullv5.html?1563359375/)
