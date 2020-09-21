@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 星河世纪/银河世纪
 
-欢迎您 您正在访问的是一个全新的网页 [ＧＡＬＡＸＹＣＥＮＴＵＲＹ](https://galaxycentury.com)
+欢迎您 您正在访问的是一个全新的网页 [galaxycentury.com][https://galaxycentury.com]
 
 如有疑问 请联系我们 [galaxycentury@outlook.com]
 
