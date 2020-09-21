@@ -9,6 +9,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 欢迎您,您正在访问的是一个全新的网页 [HTTP](http://galaxycentury.com/)/[HTTPS](https://galaxycentury.com/)
 如有疑问,请联系我们 [MAIL](galaxycentury@outlook.com) galaxycentury@outlook.com
 
+### 常用软件类
+
+[Windows 微信2.95 官方安装包](https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe/)
+[Windows QQ PC版9.3.8 官方安装包](https://down.qq.com/qqweb/PCQQ/PCQQ_EXE/PCQQ2020.exe/)
+
+### 防病毒软件类
+
+[Windows 火绒安全软件5.0 官方安装包](https://www.huorong.cn/downloadfullv5.html?1563359375/)
+
+### 网络工具类
+
 ### ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
 <IMG src="galaxycentury.github.io/E709F37A-6896-4535-9756-45C5F58767C3.jpeg" height=620 width=416><IMG src="galaxycentury.github.io/47BEEF4B-5DEE-4602-A6C2-315E15B365A2.jpeg" height=620 width=416>
