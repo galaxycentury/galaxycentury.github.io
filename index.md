@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 欢迎您 您正在访问的是一个全新的网页 [HTTP](http://galaxycentury.com/)/[HTTPS](https://galaxycentury.com/)
 
-如有疑问 请联系我们 [MAIL](galaxycentury@outlook.com)
+如有疑问 请联系我们 [MAIL]galaxycentury@outlook.com(galaxycentury@outlook.com)
 
 ### ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
