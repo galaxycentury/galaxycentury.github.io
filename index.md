@@ -1,7 +1,7 @@
 ### ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
 You can use the [editor on GitHub](https://github.com/galaxycentury/galaxycentury.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-<a href="https://www.baidu.com/"><img src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" style="float:middle" width="100%" height="100%" border="nor">
+<a href="https://www.baidu.com/"><img src="galaxycentury.github.io/baidu.png" style="float:middle" width="100%" height="100%" border="nor">
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
