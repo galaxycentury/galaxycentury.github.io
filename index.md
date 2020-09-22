@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/galaxycentury/galaxycentur
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<IMG src="galaxycentury.github.io/$$.png" height=320 width=832>
+<IMG src="galaxycentury.github.io/$A.png" height=320 width=412><IMG src="galaxycentury.github.io/$B.png" height=320 width=413>
 
 ### 星河世纪/银河世纪
 
