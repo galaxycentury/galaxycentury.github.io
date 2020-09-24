@@ -6,8 +6,6 @@ You can use the [editor on GitHub](https://github.com/galaxycentury/galaxycentur
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<IMG src="galaxycentury.github.io/$A.png" height=320 width=412><IMG src="galaxycentury.github.io/$B.png" height=320 width=413>
-
 ### 星河世纪/银河世纪
 
 欢迎您,您正在访问的是一个全新的网页 [HTTP](http://galaxycentury.com/)/[HTTPS](https://galaxycentury.com/)
@@ -58,6 +56,10 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Galaxycentury@Outlook.com
+
+<IMG src="galaxycentury.github.io/$A.png" height=320 width=412><IMG src="galaxycentury.github.io/$B.png" height=320 width=413>
 
 ### Jekyll Themes
 
