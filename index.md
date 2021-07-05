@@ -68,26 +68,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>纯CSS3实现超炫酷的萤火虫动画DEMO演示</title>
-
-<style>
-body {
-  background: radial-gradient(#0a2a43 30%, #09243a);
-  font-family: 'Asap', sans-serif;
-}
-</style>
-</head>
-<body>
-<div style="text-align:center;clear:both">
-<script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
-<script src="/follow.js" type="text/javascript"></script>
-</div>
-      <iframe frameborder="0" scrolling="no" src="index2.html" width="100%" height="500px"></iframe>
-</body>
-</html>
