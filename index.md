@@ -6,9 +6,10 @@ You can use the [editor on GitHub](https://github.com/galaxycentury/galaxycentur
 
 ### 星河世纪/银河世纪
 
-Welcome to this website http://2003.ink<br>
-                        http://galaxycentury.com<br>
-                        http://galaxycentury.net<br>
+Welcome to this website<br>
+http://2003.ink<br>
+http://galaxycentury.com<br>
+http://galaxycentury.net<br>
 [HTTP](http://galaxycentury.com/)/[HTTPS](https://galaxycentury.com/)
 如有疑问,请联系我们 [MAIL](galaxycentury@outlook.com) galaxycentury@outlook.com
 
