@@ -14,8 +14,11 @@ Welcome to this website http://2003.ink
 
 ### 常用软件类
 
-[Windows Kmplayer 影音全能播放器安装包X86](https://vdo.kmplayer.com/down/kmp32/KMPlayer_4.2.2.53.exe)<br><br>[Windows Kmplayer 影音全能播放器安装包X64](https://vdo.kmplayer.com/down/kmp64x/KMP64_2021.06.24.14.exe)<br><br>[Windows Google Chrome 谷歌浏览器 官方安装包](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0731F096-B9F4-A9E7-0684-B622DC43006E%7D%26lang%3Dzh-CN%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe)
-<br>[Windows Firefox Browser 火狐浏览器 官方安装包](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe)<br>[Windows 360 Browser 12.0.1548.0 360急速浏览器 官方安装包](http://down.360safe.com/cse/360cse_12.0.1548.0.exe)<br>[Windows 7 64 位版本和 Windows Server 2008 R2 64 位版本 Internet Explorer 11](https://download.microsoft.com/download/5/6/F/56FD6253-CB53-4E38-94C6-74367DA2AB34/IE11-Windows6.1-x64-zh-cn.exe)<br>[Windows 7 32 位版本 Internet Explorer 11](https://download.microsoft.com/download/F/2/8/F2871AC4-E82B-4636-BB37-A5F2B14C8616/IE11-Windows6.1-x86-zh-cn.exe)<br>[Windows Flash Player]( https://www.flash.cn/cdm/latest/flashplayerpp_install_cn.exe)
+[Windows Kmplayer 影音全能播放器安装包X86](https://vdo.kmplayer.com/down/kmp32/KMPlayer_4.2.2.53.exe)<br><br>
+[Windows Kmplayer 影音全能播放器安装包X64](https://vdo.kmplayer.com/down/kmp64x/KMP64_2021.06.24.14.exe)<br><br>
+[Windows Google Chrome 谷歌浏览器 官方安装包](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0731F096-B9F4-A9E7-0684-B622DC43006E%7D%26lang%3Dzh-CN%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe)
+<br>
+[Windows Firefox Browser 火狐浏览器 官方安装包](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe)<br>[Windows 360 Browser 12.0.1548.0 360急速浏览器 官方安装包](http://down.360safe.com/cse/360cse_12.0.1548.0.exe)<br>[Windows 7 64 位版本和 Windows Server 2008 R2 64 位版本 Internet Explorer 11](https://download.microsoft.com/download/5/6/F/56FD6253-CB53-4E38-94C6-74367DA2AB34/IE11-Windows6.1-x64-zh-cn.exe)<br>[Windows 7 32 位版本 Internet Explorer 11](https://download.microsoft.com/download/F/2/8/F2871AC4-E82B-4636-BB37-A5F2B14C8616/IE11-Windows6.1-x86-zh-cn.exe)<br>[Windows Flash Player]( https://www.flash.cn/cdm/latest/flashplayerpp_install_cn.exe)
 
 ### 防病毒软件类
 
