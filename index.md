@@ -44,7 +44,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Galaxycentury@Outlook.com
 
-<IMG src="galaxycentury.github.io/$A.png" height=320 width=412><IMG src="galaxycentury.github.io/$B.png" height=320 width=413>
+###<IMG src="galaxycentury.github.io/$A.png" height=320 width=412><IMG src="galaxycentury.github.io/$B.png" height=320 width=413>
+
+<IMG src="galaxycentury.github.io/20220729001.jpg" height=640 width=413>
 
 ### Jekyll Themes
 
