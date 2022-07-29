@@ -25,7 +25,7 @@ http://galaxycentury.net<br>
 
 ### 防病毒软件类
 
-[Windows 火绒安全软件5.0 官方安装包](https://www.huorong.cn/downloadfullv5.html?1563359375/)
+[安装包](https://)
 
 ### 网络工具类
 
@@ -46,10 +46,11 @@ http://galaxycentury.net<br>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Galaxycentury@Outlook.com
+### galaxycentury@Outlook.com
 
 <IMG src="galaxycentury.github.io/20220729001.jpg" height=320 width=824>
-
+ 
+<!---
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/galaxycentury/galaxycentury.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -57,3 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
