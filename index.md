@@ -34,11 +34,6 @@ http://galaxycentury.net<br>
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-markdown
-Syntax highlighted code block
-
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
  
  致力于提供高质量的软件下载平台,如需投稿请您通过EMAIL将软件或代码链接地址发送给我们！
