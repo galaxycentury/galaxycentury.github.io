@@ -46,7 +46,7 @@ http://galaxycentury.net<br>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### galaxycentury@Outlook.com
+
 
 <IMG src="galaxycentury.github.io/20220729001.jpg" height=320 width=824>
  
@@ -59,3 +59,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
+ 
+###galaxycentury@Outlook.com
