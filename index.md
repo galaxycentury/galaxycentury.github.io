@@ -43,7 +43,12 @@ http://galaxycentury.net<br>
  
  致力于提供高质量的软件下载平台,如需投稿请您通过EMAIL将软件或代码链接地址发送给我们！
 
-<video src="rtmp://101.43.28.46:12710/live" data-canonical-src="rtmp://101.43.28.46:12710/live" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:1920px; min-height: 600px">
+<video src="rtmp://101.43.28.46:12710/live" data-canonical-src="rtmp://101.43.28.46:12710/live" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:824px; min-height: 320px">
+
+  </video>
+ 
+ 
+ <video src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" data-canonical-src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:824px; min-height: 320px">
 
   </video>
  
