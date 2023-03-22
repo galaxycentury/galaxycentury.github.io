@@ -42,6 +42,43 @@ http://galaxycentury.net<br>
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
  
  致力于提供高质量的软件下载平台,如需投稿请您通过EMAIL将软件或代码链接地址发送给我们！
+
+ 
+ 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    #snailPlayId {
+      width: 800px;
+      height: 500px;
+      margin: 0 auto;
+    }
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+<h1>snail-player</h1>
+<div id='snailPlayId'></div>
+
+</body>
+<script type="module">
+  import SnailPlayer from "./lib/index.js";
+  new SnailPlayer({
+    el: '#snailPlayId',
+    src: 'https://webrabbit.oss-cn-beijing.aliyuncs.com/drawingbed/video.mp4',
+    autoplay: true, // 是否自动播放
+    loop: true // 是否循环播放
+  })
+</script>
+</html>
+
+ 
+ 
  
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
 
