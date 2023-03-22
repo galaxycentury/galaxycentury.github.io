@@ -9,7 +9,6 @@ You can use the [editor on GitHub](https://github.com/galaxycentury/galaxycentur
 Welcome to this website<br>
 http://2003.ink<br>
 http://galaxycentury.com<br>
-http://galaxycentury.net<br>
 [HTTP](http://galaxycentury.com/)/[HTTPS](https://galaxycentury.com/)
 如有疑问,请联系我们 [email](galaxycentury@outlook.com) galaxycentury@outlook.com
 
@@ -51,6 +50,28 @@ http://galaxycentury.net<br>
  <video src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" data-canonical-src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:824px; min-height: 320px">
 
   </video>
+ 
+ 
+ <script type="text/javascript" src="/player/js/swfobject.js"></script>
+<div class="video" id="CuPlayer"> <b> <img src="/player/images/loading.gif" /> 网页视频播放器加载中，请稍后...</b> </div>
+<script type="text/javascript">
+var so = new SWFObject("/player/player.swf","ply","980","460","9","#000000");
+so.addParam("allowfullscreen","true");
+so.addParam("allowscriptaccess","always");
+so.addParam("wmode","opaque");
+so.addParam("quality","high");
+so.addParam("salign","lt");
+<!-- HTML代码参数/Begin -->
+so.addVariable("JcScpServer","rtmp://101.43.28.46:12710/live"); //rtmp流媒体服务器地址
+so.addVariable("JcScpVideoPath","mp4:test.mp4"); //文件地址
+so.addVariable("JcScpImg","/player/images/startpic.jpg"); //视频缩略图
+so.addVariable("JcScpFile","/player/CuSunV4set.xml"); //配置文件
+<!-- HTML代码参数/End -->
+so.write("CuPlayer");
+</script>
+ 
+ 
+ 
  
  
 ＧＡＬＡＸＹＣＥＮＴＵＲＹ
