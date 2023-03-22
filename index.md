@@ -77,6 +77,153 @@ http://galaxycentury.net<br>
 </script>
 </html>
 
+ // 计算进度条时间
+progressTime(offsetY) {
+  return utils.formatSeconds((offsetY / this.progressw * this.playVideo.duration).toFixed(2))
+}
+
+
+// 进度条计算公式
+progressCalculate() {
+  return (this.progressw / this.playVideo.duration * this.playVideo.currentTime).toFixed(2)
+}
+
+
+// 全屏
+fullScreenFun() {
+  const docElm = document.documentElement
+  if (!this.isFullScreen) {
+    utils.addClass(this.el, 'fullscreen-active')
+    utils.addClass(this.playVideo, 'fullscreen-active')
+    utils.showClass('snail-player-full-screen-icon')
+    utils.hiddenClass('snail-player-fullscreen-btn')
+    utils.changeInnerText('fullscreen-icon', '退出全屏')
+    utils.addClass(this.playBottom, 'sn-player-fullscreen-bottom-active')
+    setTimeout(() => {
+      if (docElm.requestFullscreen) {
+        docElm.requestFullscreen();
+      } else if (docElm.mozRequestFullScreen) {
+        docElm.mozRequestFullScreen();
+      } else if (document.webkitRequestFullScreen) {
+        docElm.webkitRequestFullScreen();
+      }
+    }, 100)
+    this.isFullScreen = true
+    utils.hiddenClass('snail-player-web-fullscreen-box')
+  } else {
+    if (document.exitFullscreen) {
+      document.exitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+      document.mozCancelFullScreen();
+    } else if (document.webkitCancelFullScreen) {
+      document.webkitCancelFullScreen();
+    }
+    utils.showClass('snail-player-web-fullscreen-box')
+    utils.removeClass(this.el, 'fullscreen-active')
+    utils.removeClass(this.playVideo, 'fullscreen-active')
+    utils.hiddenClass('snail-player-full-screen-icon')
+    utils.showClass('snail-player-fullscreen-btn')
+    utils.changeInnerText('fullscreen-icon', '进入全屏')
+    utils.removeClass(this.playBottom, 'sn-player-fullscreen-bottom-active')
+    this.isFullScreen = false
+  }
+}
+
+ //加载css
+renderCss(url) {
+  var head = document.getElementsByTagName('head')[0];
+  var link = document.createElement('link');
+  link.type='text/css';
+  link.rel = 'stylesheet';
+  link.href = url;
+  head.appendChild(link);
+}
+
+//加载favicon
+renderIcon(url) {
+  var head = document.getElementsByTagName('head')[0];
+  var link = document.createElement('link');
+  link.type='type="image/x-icon"';
+  link.rel = 'shortcut icon';
+  link.href = url;
+  head.appendChild(link);
+}
+ 
+ 
+class Utils {
+  hasClass(ele, cls) {
+    return !!ele.className.match(new RegExp('(\s|^)' + cls + '(\s|$)'))
+  }
+  addClass(ele, cls) {
+    if (!this.hasClass(ele, cls)) ele.className += ' ' + cls
+  }
+  removeClass(ele, cls) {
+    if (this.hasClass(ele, cls)) {
+      const reg = new RegExp('(\s|^)' + cls + '(\s|$)')
+      ele.className = ele.className.replace(reg, '')
+    }
+  }
+  set(key, value) {
+    localStorage.setItem(key, value)
+  }
+
+  get(key) {
+    return  localStorage.getItem(key)
+  }
+  showClass(cls) {
+    cls ? document.getElementsByClassName(cls)[0].style.display = 'block' : new Error('请输入类名')
+  }
+  hiddenClass(cls) {
+    cls ? document.getElementsByClassName(cls)[0].style.display = 'none' : new Error('请输入类名')
+  }
+  changeInnerText(cls, text) {
+    document.getElementsByClassName(cls)[0].innerHTML = text
+  }
+
+  clickfu(to, cls){
+    //回调函数，to为点击对象
+    to.setAttribute("class",cls);
+    const siblings = to.parentNode.childNodes;
+    for(let i=0; i<siblings.length; i++)
+      if(siblings[i].nodeType == 1 && siblings[i] != to)siblings[i].className = '';
+  }
+
+  formatSeconds(value) {
+    if(!value) return '00:00'
+    value = parseInt(value);
+    let time;
+    if (value > -1) {
+     let hour = Math.floor(value / 3600);
+     let min = Math.floor(value / 60) % 60;
+     let sec = value % 60;
+     let day = parseInt(hour / 24);
+      if (day > 0) {
+        hour = hour - 24 * day;
+        time = day + "day " + hour + ":";
+      } else if (hour > 0) {
+        time = hour + ":";
+      }else {
+        time = "";
+      }
+      if (min < 10) {
+        time += "0";
+      }
+      time += min + ":";
+      if (sec < 10) {
+        time += "0";
+      }
+      time += sec;
+    }
+    return time;
+  }
+
+  classEle(cls) {
+    return  cls && document.getElementsByClassName(cls)[0]
+  }
+
+}
+
+export default Utils
  
  
  
