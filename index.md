@@ -47,9 +47,9 @@ http://galaxycentury.com<br>
   </video>
  
  
-## <video src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" data-canonical-src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:824px; min-height: 320px">
+// <video src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" data-canonical-src="https://user-images.githubusercontent.com/34472552/170834852-9630c348-7aef-49d9-8b4e-20c6f55a068b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:824px; min-height: 320px">
 
-##  </video>
+//  </video>
  
  
 <script type="text/javascript" src="/player/js/swfobject.js"></script>
